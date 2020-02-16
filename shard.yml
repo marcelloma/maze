@@ -1,0 +1,9 @@
+name: maze
+version: 0.1.0
+
+authors:
+  - Marcello Albuquerque <marcello_albuquerque@icloud.com>
+
+crystal: 0.33.0
+
+license: MIT
