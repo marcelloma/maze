@@ -2,6 +2,8 @@
 
 TODO: Write a description here
 
+[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta)
+
 ## Installation
 
 1. Add the dependency to your `shard.yml`:
