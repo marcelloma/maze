@@ -5,7 +5,7 @@ module Maze
     property params
 
     @value : T?
-    
+
     def initialize
       @params = {} of String => String
     end
