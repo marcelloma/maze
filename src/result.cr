@@ -1,10 +1,10 @@
 module Maze
   class Result(T)
+    @value : T?
+
     property value
     property? value
     property params
-
-    @value : T?
 
     def initialize
       @params = {} of String => String
